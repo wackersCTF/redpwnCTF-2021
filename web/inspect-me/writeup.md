@@ -11,6 +11,8 @@ The main website is basically just there to try to crash your computer and keep 
 
 Picture of main website: 
 
+<img src="https://user-images.githubusercontent.com/86171033/125229052-c990b400-e28a-11eb-80d9-06a5b21c39e5.png" alt="image" width="800"/>
+
 
 Look into the source code and look for flag.
 
