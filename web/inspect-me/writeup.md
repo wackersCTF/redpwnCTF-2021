@@ -3,6 +3,8 @@ Author: NotDeGhost
 
 See if you can find the flag in the source code!
 
+https://inspect-me.mc.ax/
+
 ## Solution
 The description and the title of the challenge gives us a good idea of where to start.
 Also this is a usual place to start in for a web challenge.
