@@ -10,8 +10,7 @@ The main website is just a normal login screen.
 
 Picture of main website: 
 
-
-
+<img src="https://user-images.githubusercontent.com/46347858/125236298-905f4080-e298-11eb-84fb-0777c31985bd.PNG" alt="image" width="800"/>
 
 Let's try some simple sql injection payloads that are usually used to check sql injection everytime.
 
