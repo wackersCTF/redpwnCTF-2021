@@ -3,6 +3,8 @@ Author: ra
 
 I just learned about orms today! They seem kinda difficult to implement though... Guess I'll stick to good old raw sql statements!
 
+https://orm-bad.mc.ax/
+
 ## Solution
 The description right away tells us that this will be an sql injection challenge.
 
