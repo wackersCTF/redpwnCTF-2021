@@ -18,7 +18,7 @@ The flag format is flag{}, so use Ctrl + F, and search for flag
 
 this appears in the comments of the html:
 
-<!-- flag{inspect_me_like_123} -->
+```<!-- flag{inspect_me_like_123} -->```
 
 ## Flag
 ```flag{inspect_me_like_123}```
