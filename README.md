@@ -19,19 +19,19 @@
 # Pwn
 | Challenge | Solver | Points |
 | --- | --- | --- |
-| beginner-generic-pwn-number-0 | Xenonminer | 105 |
-| ret2generic-flag-reader | Xenonminer | 105 |
-| ret2the-unknown | Xenonminer | 108 |
+| beginner-generic-pwn-number-0 | xenonminer | 105 |
+| ret2generic-flag-reader | xenonminer | 105 |
+| ret2the-unknown | xenonminer | 108 |
 
 # Rev
 | Challenge | Solver | Points |
 | --- | --- | --- |
-| wstrings | Xenonminer | 102 |
-| round-the-bases | Xenonminer | 107 |
+| wstrings | xenonminer | 102 |
+| round-the-bases | xenonminer | 107 |
 
 # Web
 | Challenge | Solver | Points |
 | --- | --- | --- |
-| inspect-me | Xenonminer | 101 |
+| inspect-me | xenonminer | 101 |
 |  orm-bad | blah | 102 |
 | pastebin-1 | blah | 103 |
