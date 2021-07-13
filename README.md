@@ -1,5 +1,7 @@
 # redpwnCTF-2021
-[redpwn CTF 2021](https://ctftime.org/event/1327)
+[ctf link](https://2021.redpwn.net)
+[ctftime link](https://ctftime.org/event/1327)
+
 
 # Crypto
 | Challenge | Solver | Points |
