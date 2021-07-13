@@ -1,7 +1,12 @@
 # redpwnCTF-2021
 [ctf link](https://2021.redpwn.net)
+
 [ctftime link](https://ctftime.org/event/1327)
 
+wackers team ranking
+* 1142 total points
+* 24th place in high school division
+* 323rd place across all teams
 
 # Crypto
 | Challenge | Solver | Points |
