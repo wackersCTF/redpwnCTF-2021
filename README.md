@@ -11,16 +11,16 @@ wackers team ranking
 # Crypto
 | Challenge | Solver | Points |
 | --- | --- | --- |
-| scissor | blah | 102 |
+| scissor | xenonminer | 102 |
 |  baby | prince-of-tennis | 102 |
 
 
 # Misc
 | Challenge | Solver | Points |
 | --- | --- | --- |
-| sanity-check | blah | 1 |
-|  discord | blah | 1 |
-|  survey | blah | 1 |
+| sanity-check | SOMEONE | 1 |
+|  discord | SOMEONE | 1 |
+|  survey | SOMEONE | 1 |
 | compliant-lattice-feline | blah | 102 |
 
 # Pwn
@@ -40,5 +40,5 @@ wackers team ranking
 | Challenge | Solver | Points |
 | --- | --- | --- |
 | inspect-me | xenonminer | 101 |
-|  orm-bad | blah | 102 |
-| pastebin-1 | blah | 103 |
+|  orm-bad | xenonminer | 102 |
+| pastebin-1 | drpain365 | 103 |
