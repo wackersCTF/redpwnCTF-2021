@@ -25,7 +25,7 @@ We see that the another variable is being compared in order to get a shell and n
 
 Let's now take a look at the main function in ghidra.
 
-```
+```c
 undefined8 main(void)
 
 {
@@ -71,7 +71,7 @@ We will be using pwntools.
 
 The script I made looks like this:
 
-```
+```python
 from pwn import *
 
 exe = ELF("beginner-generic-pwn-number-0")
