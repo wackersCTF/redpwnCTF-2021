@@ -15,7 +15,7 @@ First, let's find the offset.
 
 Open up ghidra and look at the main function.
 
-```
+```c
 undefined8 main(void)
 
 {
