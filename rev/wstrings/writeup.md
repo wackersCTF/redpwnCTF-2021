@@ -10,7 +10,8 @@ We first start by running strings on the file, but we get nothing so lets open t
 
 Looking at the code of the main function, nothing seems useful to us.
 
-```undefined8 main(void)
+```c
+undefined8 main(void)
 
 {
   int iVar1;
