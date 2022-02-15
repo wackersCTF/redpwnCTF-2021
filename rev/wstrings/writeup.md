@@ -11,9 +11,7 @@ We first start by running strings on the file, but we get nothing so lets open t
 Looking at the code of the main function, nothing seems useful to us.
 
 ```c
-undefined8 main(void)
-
-{
+undefined8 main(void) {
   int iVar1;
   long in_FS_OFFSET;
   wchar_t local_158 [82];
